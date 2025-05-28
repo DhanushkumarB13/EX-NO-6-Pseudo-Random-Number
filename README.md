@@ -1,4 +1,9 @@
-# EX-NO-6-Pseudo-Random-Number
+# Exp NO-6-Pseudo-Random-Number
+
+```
+NAME: B.DHANUSH KUMAR
+REG NO: 212224240034
+```
 
 # AIM: 
 Implementation of Pseudorandom Number Generation Using Standard library
